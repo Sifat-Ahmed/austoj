@@ -1,0 +1,69 @@
+﻿body{
+    padding:50px;
+    width: 90%;
+}
+
+.website-title
+{
+    text-align:center;
+    height: auto;
+    width: 100%;
+    font-size: 50px;
+    
+}
+
+.developer-title
+{
+    font-size: 20px;
+    margin-top: 4px;
+    height: auto;
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+
+.developer-title > a
+{
+    margin: 10px;
+}
+
+#codeName {
+    width: 400px;
+    height: auto;
+    font-size: 20px;
+}
+
+#codeList
+{
+    width: 100px;
+    text-align:center;
+}
+
+.code-ext
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container {
+    border: 20px;
+    width: 100%;
+    border-color: black;
+    padding: 10px;
+    background-color: dimgray;
+}
+
+.clearfix {
+    clear: both
+}
+
+#codeText
+{
+    height: 60%;
+    width: 60%;
+}
+
+.sideBar{
+    padding-left: 20px;
+    padding-right: 20px;
+}
